@@ -1,4 +1,5 @@
-[
+{ 
+  rules: [
   {
     "ID": "AVOID_FLOATING_POINT_DATA_TYPES",
     "Name": "[Performance] Do not use floating point data types",
@@ -725,3 +726,5 @@
     "CompatibilityLevel": 1200
   }
 ]
+
+}
